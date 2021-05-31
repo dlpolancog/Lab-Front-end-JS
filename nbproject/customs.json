@@ -1,0 +1,15 @@
+{
+    "elements": {
+        "toolbar": {},
+        "competitor-info": {},
+        "competitor-form": {}
+    },
+    "attributes": {
+        "aria-expanded": {
+            "context": "button"
+        },
+        "dataholder-rendered": {
+            "context": "img"
+        }
+    }
+}
